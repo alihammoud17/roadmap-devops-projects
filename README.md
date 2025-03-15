@@ -8,7 +8,9 @@ This project includes a script to monitor server performance. The script, `serve
 
 ### Running the Script  
 
-Project URL: ```"Project DEVOPS roadmap"/server-stats.sh```
+Project path: ```"Project DEVOPS roadmap"/server-stats.sh```
+
+Project URL: ```https://roadmap.sh/projects/server-stats```
 
 To execute the script, use the following command:  
 
